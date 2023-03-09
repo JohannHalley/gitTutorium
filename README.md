@@ -2,7 +2,7 @@
 
 git init  
 git add .  
-git commit -m "commit"
+git commit -m "commit"  
 git remote rm origin  
 git remote add origin http.....  
 
