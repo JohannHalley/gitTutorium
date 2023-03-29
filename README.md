@@ -8,7 +8,8 @@ git remote add origin http.....
 
 git log
 
-git branch -a
+git branch -a  
+git branch -b <branch>
 
 
 
